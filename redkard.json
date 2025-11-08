@@ -1,0 +1,1047 @@
+[
+  [
+    "01",
+    "a0000000",
+    "Sun's Grace",
+    "Melee",
+    "Common",
+    "Strikes the ground, causing fire to erupt in a line in front of the player. Useful for dealing with a line of approaching mobs."
+  ],
+  [
+    "02",
+    "a0010000",
+    "Grave Bane",
+    "Melee",
+    "Common",
+    "Does a 360 sweep around you with the range of a typical melee attack. Low attack speed gives enemies a chance to hit you after you use the weapon."
+  ],
+  [
+    "03",
+    "a0020000",
+    "Stormlander",
+    "Melee",
+    "Rare",
+    "Strikes the ground, causing an explosion of electricity in front of the player. Moderately useful for killing groups of enemies, but cannot kill enemies behind you."
+  ],
+  [
+    "04",
+    "a0030000",
+    "Heartstealer",
+    "Melee",
+    "Unique"
+  ],
+  [
+    "05",
+    "a0040000",
+    "Nameless Blade",
+    "Melee",
+    "Rare",
+    "Has high attack speed and increases your movement speed when charged or active. Attacks a very small area right in front of the player. Knockback can cause an enemy to get flung out of range of the attacks, rendering the weapon useless."
+  ],
+  [
+    "06",
+    "a0050000",
+    "Firebrand",
+    "Melee",
+    "Rare"
+  ],
+  [
+    "07",
+    "a0060000",
+    "Soul Fists",
+    "Melee",
+    "Common",
+    "Does two consecutive punches, sending out energy waves in front of the player at a medium range. Useful for an approaching mob of enemies or for dealing damage to the boss."
+  ],
+  [
+    "08",
+    "a0070000",
+    "Frost Scythe",
+    "Melee",
+    "Rare"
+  ],
+  [
+    "09",
+    "a0080000",
+    "Master's Katana",
+    "Melee",
+    "Unique"
+  ],
+  [
+    "10",
+    "a0090000",
+    "Cursed Axe",
+    "Melee",
+    "Unique"
+  ],
+  [
+    "11",
+    "a00a0000",
+    "Flail",
+    "Melee",
+    "Common"
+  ],
+  [
+    "12",
+    "a00b0000",
+    "Broadsword",
+    "Melee",
+    "Common",
+    "Does a horizontal swing and then strikes the ground in front of the player, which does damage in a small area."
+  ],
+  [
+    "13",
+    "a00c0000",
+    "Nightmare's Bite",
+    "Melee",
+    "Unique",
+    "Has high attack speed and increases your movement speed when charged or active. Does a large 270\u00b0 swing roughly in front of the player with very high range and damage. Recommended weapon."
+  ],
+  [
+    "14",
+    "a00d0000",
+    "Moon Daggers",
+    "Melee",
+    "Unique"
+  ],
+  [
+    "15",
+    "a00e0000",
+    "Fortune Spear",
+    "Melee",
+    "Rare"
+  ],
+  [
+    "16",
+    "a10f0000",
+    "Twin Bow (with Double Shot Quiver)",
+    "Range",
+    "Common",
+    "Firing consumes one charge and shoots two arrows in quick succession.",
+    "5"
+  ],
+  [
+    "17",
+    "a10g0000",
+    "Red Snake (with Poison Quiver)",
+    "Range",
+    "Common",
+    "On hit, may* inflict a poisioned status on an enemy, which will do a few small instances of damage over time.",
+    "5"
+  ],
+  [
+    "18",
+    "a10h0000",
+    "Sabrewing (with Piercing Quiver)",
+    "Range",
+    "Common",
+    "Shoots a large arrow that passes through all enemies. Any enemies in the arrow's path or close to the path will be killed.",
+    "4"
+  ],
+  [
+    "19",
+    "a10i0000",
+    "The Pink Scoundrel (with Control Quiver)",
+    "Range",
+    "Unique",
+    "Shoots an erratic arrow that, on hit, will inflict all enemies in a small area with the controlled effect. Controlled enemies will glow the color of the inflicting player and will start to attack other enemies. After some time, the effect will wear off and the mob will attack players like normal. Controlled enemies will not be targeted by pets but will still be attacked if they get within the pet's attack range. Arrows will still target controlled enemies. Controlled enemies will attack eachother, which makes it useful for escaping when you're surrounded by enemies. Controlled enemies will prevent players from progressing to the next level.",
+    "4"
+  ],
+  [
+    "20",
+    "a10j0000",
+    "Corrupted Beacon",
+    "Range",
+    "Unique",
+    "Fires a beam that reaches halfway across the map. While it's firing, you can aim it around and it will kill most enemies. Incredibly good for killing large amounts of mobs across the entire map.",
+    "2"
+  ],
+  [
+    "21",
+    "a10k0000",
+    "Auto Crossbow (with Rapid Fire Quiver)",
+    "Range",
+    "Unique",
+    "Quickly shoots a large volume of arrows."
+  ],
+  [
+    "22",
+    "a10l0000",
+    "Firebolt Thrower (with Exploding Quiver)",
+    "Range",
+    "Rare"
+  ],
+  [
+    "23",
+    "a10m0000",
+    "Guardian Bow (with Ice Quiver)",
+    "Range",
+    "Rare",
+    "Freezes the enemy on hit.",
+    "3"
+  ],
+  [
+    "24",
+    "a10n0000",
+    "Lightning Harp Crossbow (with Electric Quiver)",
+    "Range",
+    "Rare",
+    "On hit, will affect all enemies in a small area with electricity.",
+    "3"
+  ],
+  [
+    "25",
+    "a10o0000",
+    "The Green Menace (with Ricochet Quiver)",
+    "Range",
+    "Rare",
+    "Fires an arrow that bounces from enemy to enemy. Capable of taking out smaller groups of mobs in a single shot, and the arrow will even travel halfway across the map to hit an enemy. Fun to use.",
+    "3"
+  ],
+  [
+    "26",
+    "a10p0000",
+    "Imploding Crossbow (with Imploding Quiver)",
+    "Range",
+    "Unique",
+    "Upon hit, a large field will be created that sucks in all enemies nearby before quickly exploding.",
+    "3"
+  ],
+  [
+    "27",
+    "a10q0000",
+    "Harp Crossbow (with Triple Shot Quiver)",
+    "Range",
+    "Common",
+    "3"
+  ],
+  [
+    "28",
+    "a20r0000",
+    "Souldancer Robe",
+    "Armor",
+    "Common"
+  ],
+  [
+    "29",
+    "a20s0000",
+    "Battle Robe",
+    "Armor",
+    "Common"
+  ],
+  [
+    "30",
+    "a20t0000",
+    "Wolf Armor",
+    "Armor",
+    "Common"
+  ],
+  [
+    "31",
+    "a20u0000",
+    "Grim Armor",
+    "Armor",
+    "Common"
+  ],
+  [
+    "32",
+    "a20v0000",
+    "Highland Armor",
+    "Armor",
+    "Common"
+  ],
+  [
+    "33",
+    "a20w0000",
+    "Renegade Armor",
+    "Armor",
+    "Rare"
+  ],
+  [
+    "34",
+    "a20x0000",
+    "Spider Armor",
+    "Armor",
+    "Rare"
+  ],
+  [
+    "35",
+    "a20y0000",
+    "Full Metal Armor",
+    "Armor",
+    "Rare"
+  ],
+  [
+    "36",
+    "a20z0000",
+    "Ember Robe",
+    "Armor",
+    "Rare"
+  ],
+  [
+    "37",
+    "a20A0000",
+    "Ender Armor",
+    "Armor",
+    "Unique"
+  ],
+  [
+    "38",
+    "a20B0000",
+    "Titan's Shroud",
+    "Armor",
+    "Unique"
+  ],
+  [
+    "39",
+    "a20C0000",
+    "Frost Bite",
+    "Armor",
+    "Unique"
+  ],
+  [
+    "40",
+    "a20D0000",
+    "Hero's Armor",
+    "Armor",
+    "Unique"
+  ],
+  [
+    "41",
+    "a30E0000",
+    "Morris",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "42",
+    "a30F0000",
+    "Elaine",
+    "Skin",
+    "Unique"
+  ],
+  [
+    "43",
+    "a30G0000",
+    "Valorie",
+    "Skin",
+    "Common"
+  ],
+  [
+    "44",
+    "a30H0000",
+    "Violet",
+    "Skin",
+    "Common"
+  ],
+  [
+    "45",
+    "a30I0000",
+    "Ivy",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "46",
+    "a40J0000",
+    "Meadow",
+    "Skin",
+    "Unique"
+  ],
+  [
+    "47",
+    "a40K0000",
+    "Sven",
+    "Skin",
+    "Common"
+  ],
+  [
+    "48",
+    "a40L0000",
+    "Sam",
+    "Skin",
+    "Common"
+  ],
+  [
+    "49",
+    "a40M0000",
+    "Elan",
+    "Skin",
+    "Common"
+  ],
+  [
+    "50",
+    "a30N0000",
+    "Ebo",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "51",
+    "a30O0000",
+    "Frisk",
+    "Skin",
+    "Unique"
+  ],
+  [
+    "52",
+    "a30P0000",
+    "Adriene",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "53",
+    "a40Q0000",
+    "Wolf",
+    "Pet",
+    "Rare"
+  ],
+  [
+    "54",
+    "a40R0000",
+    "Polar Bear",
+    "Pet",
+    "Unique",
+    "Will move torwards the enemies, attempt to do an attack, retreat, and repeat. If the enemy avoids the attack, then you can consider a whole cycle of the pet's attack to be \"wasted\"."
+  ],
+  [
+    "55",
+    "a40S0000",
+    "Pig",
+    "Pet",
+    "Common"
+  ],
+  [
+    "56",
+    "a40T0000",
+    "Llama",
+    "Pet",
+    "Rare",
+    "Seems to have a ranged attack, but the AI bugs out often causing it to constantly engage and retreat with the enemies*."
+  ],
+  [
+    "57",
+    "a40U0000",
+    "Fox",
+    "Pet",
+    "Common"
+  ],
+  [
+    "58",
+    "a40V0000",
+    "Panda",
+    "Pet",
+    "Unique"
+  ],
+  [
+    "59",
+    "a40W0000",
+    "Ocelot",
+    "Pet",
+    "Rare"
+  ],
+  [
+    "60",
+    "a40X0000",
+    "Chicken",
+    "Pet",
+    "Common"
+  ],
+  [
+    "61",
+    "b00Y0000",
+    "Encrusted Anchor",
+    "Melee",
+    "Unique",
+    "Strikes the ground in front of the player, creating an explosion and damage within a medium* area."
+  ],
+  [
+    "62",
+    "b00Z0000",
+    "Battlestaff of Terror",
+    "Melee",
+    "Unique"
+  ],
+  [
+    "63",
+    "b0100000",
+    "Hawkbrand",
+    "Melee",
+    "Common"
+  ],
+  [
+    "64",
+    "b0110000",
+    "Sponge Striker",
+    "Melee",
+    "Rare"
+  ],
+  [
+    "65",
+    "b0120000",
+    "The Last Laugh",
+    "Melee",
+    "Rare"
+  ],
+  [
+    "66",
+    "b0130000",
+    "Vine Whip",
+    "Melee",
+    "Rare"
+  ],
+  [
+    "67",
+    "b0140000",
+    "Whirlwind",
+    "Melee",
+    "Common"
+  ],
+  [
+    "68",
+    "b0150000",
+    "Whispering Spear",
+    "Melee",
+    "Common"
+  ],
+  [
+    "69",
+    "b1160000",
+    "Bubble Burster (with Popping Quiver)",
+    "Range",
+    "Common",
+    "Fires an arrow that, upon hit, will trap all enemies in a medium area in a bubble.",
+    "4"
+  ],
+  [
+    "70",
+    "b1170000",
+    "Nautical Crossbow (with Harpoon Quiver)",
+    "Range",
+    "Common",
+    "5"
+  ],
+  [
+    "71",
+    "b1180000",
+    "Web Bow (with Spider Quiver)",
+    "Range",
+    "Rare",
+    "4"
+  ],
+  [
+    "72",
+    "b1190000",
+    "Bonebow (with Growing Quiver)",
+    "Range",
+    "Common",
+    "Shoots an arrow that will slowly grow and pierce through enemies.",
+    "5"
+  ],
+  [
+    "73",
+    "b11a0000",
+    "Purple Storm (with Quick Quiver)",
+    "Range",
+    "Rare",
+    "No special effects.*",
+    "30"
+  ],
+  [
+    "74",
+    "b11b0000",
+    "Soul Hunter Crossbow (with Split Shot Quiver)",
+    "Range",
+    "Common"
+  ],
+  [
+    "75",
+    "b21c0000",
+    "Spellbound Crossbows (with Dual Quiver)",
+    "Range",
+    "Rare",
+    "5"
+  ],
+  [
+    "76",
+    "b21d0000",
+    "Eye of the Guardian",
+    "Range",
+    "Unique",
+    "Functionally similar to the Corrupted Beacon, with some small differences. Range is reduced in exchange for a longer beam duration. Additionally, the beam itself looks similar to a guardian beam.",
+    "2*"
+  ],
+  [
+    "77",
+    "b21e0000",
+    "Squid Armor",
+    "Armor",
+    "Rare"
+  ],
+  [
+    "78",
+    "b21f0000",
+    "Glow Squid Armor",
+    "Armor",
+    "Unique"
+  ],
+  [
+    "79",
+    "b21g0000",
+    "Nimble Turtle Armor",
+    "Armor",
+    "Rare"
+  ],
+  [
+    "80",
+    "b21h0000",
+    "Archer's Armor",
+    "Armor",
+    "Common"
+  ],
+  [
+    "81",
+    "b21i0000",
+    "Ghost Kingler",
+    "Armor",
+    "Unique"
+  ],
+  [
+    "82",
+    "b21j0000",
+    "Phantom Armor",
+    "Armor",
+    "Rare"
+  ],
+  [
+    "83",
+    "b31m0000",
+    "Stalwart Armor",
+    "Armor",
+    "Common"
+  ],
+  [
+    "84",
+    "b31m0000",
+    "Fox Armor",
+    "Armor",
+    "Common"
+  ],
+  [
+    "85",
+    "b31m0000",
+    "The Archeologist",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "86",
+    "b31n0000",
+    "Baako",
+    "Skin",
+    "Common"
+  ],
+  [
+    "87",
+    "b31o0000",
+    "Dani",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "88",
+    "b31p0000",
+    "Darian",
+    "Skin",
+    "Common"
+  ],
+  [
+    "89",
+    "b31q0000",
+    "Fuego",
+    "Skin",
+    "Common"
+  ],
+  [
+    "90",
+    "b31r0000",
+    "The Kelptomaniac",
+    "Skin",
+    "Unique"
+  ],
+  [
+    "91",
+    "b31s0000",
+    "The Monumental",
+    "Skin",
+    "Unique"
+  ],
+  [
+    "92",
+    "b31t0000",
+    "Wargen",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "93",
+    "b41u0000",
+    "Sheep",
+    "Pet",
+    "Common"
+  ],
+  [
+    "94",
+    "b41v0000",
+    "Rabbit",
+    "Pet",
+    "Common"
+  ],
+  [
+    "95",
+    "b41w0000",
+    "Goat",
+    "Pet",
+    "Rare"
+  ],
+  [
+    "96",
+    "b41x0000",
+    "Bee",
+    "Pet",
+    "Rare",
+    "Behaves simiarly to the Iron Golem, but takes knockback damage, which causes it to often miss."
+  ],
+  [
+    "97",
+    "b41y0000",
+    "Baby Turtle",
+    "Pet",
+    "Unique"
+  ],
+  [
+    "98",
+    "b41z0000",
+    "Iron Golem",
+    "Pet",
+    "Unique",
+    "Will move in torwards the enemies and will continue to attack until there are no more enemies in range. The golem's large size makes it perfect at stopping large groups of mobs, and it also allows you use the golem as a shield to help protect yourself from damage. Also great a pulling aggro, which makes fighting certain enemies and bosses much easier. Recommended pet."
+  ],
+  [
+    "99",
+    "c01A1000",
+    "The Kelptomaniac (Whispering Spear + Nautical Crossbow + Nimble Turtle Armor + The Kelptomaniac + Baby Turtle)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "100",
+    "c01B1000",
+    "Explorer (Maulers + Weeping Vine Bow + Living Vine + Explorer + Cat)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "101",
+    "c01C1000",
+    "Valorie (Highland Axe + Guardian Bow + Phantom Armor + Valorie + Goat)",
+    "Hero",
+    "Rare"
+  ],
+  [
+    "102",
+    "c01D1000",
+    "Strider Warrior (Moon Daggers + Mechanical Shortbow + Black Wolf Armor + Strider Warrior + Wolf)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "103",
+    "c01E1000",
+    "Darian (Bee Stinger + Sabrewing + Beenest Armor + Darian + Bee)",
+    "Hero",
+    "Rare"
+  ],
+  [
+    "104",
+    "c01F1000",
+    "Loge (Firebrand + Blast Fungus + Hungry Horror + Loge + Red Sheep)",
+    "Hero",
+    "Unique",
+    "3"
+  ],
+  [
+    "105",
+    "c01G1000",
+    "Skelly (Jailor's Scythe + Haunted Bow + Wither Armor + Skelly + Endermite)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "106",
+    "c01H1000",
+    "Wargen (Dark Katana + Satchel of Elements + Unstable Robes + Wargen + Soul Entity)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "107",
+    "c01I1000",
+    "Annika (Nightmare's Bite + Web Bow + Spider Armor + Annika + Bat)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "108",
+    "c01J1000",
+    "Dani (Fighter's Bindings + Twin Bow + Ocelot Armor + Dani + Parrot)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "109",
+    "c01K1000",
+    "Frosty (Frost Scythe + Winter's Touch + Frost Bite + Frosty + Polar Bear)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "110",
+    "c01L1000",
+    "Sven (Sun's Grace + Sabrewing + Hero's Armor + Sven + Horse)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "111",
+    "c01M1000",
+    "Nuru (Hammer of Gravity + Imploding Crossbow + Sturdy Shulker Armor + Nuru + Rabbit)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "112",
+    "c01N1000",
+    "Ivy (Battlestaff of Terror + Echo of the Valley + Battle Robe + Ivy + Llama)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "113",
+    "c01O1000",
+    "Corrupted Defender (Bone Cudgel + Bonebow + Grim Armor + Corrupted Defender + Zombified Baby Pig)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "114",
+    "c01P1000",
+    "Void Voyager (The Beginning and The End + Veiled Crossbow + Ender Armor + Void Voyager + Baby Ghast)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "115",
+    "c01Q1000",
+    "Qamar (Heartstealer + Sugar Rush + The Troubadour + Qamar + Guardian Vex)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "116",
+    "c01R1000",
+    "Sam (Cursed Axe + Voidcaller + Renegade Armor + Sam + Arctic Fox)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "117",
+    "c01S1000",
+    "The Monumental (Stormlander + Lightning Rod + Titan's Shroud + The Monumental + Iron Golem)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "118",
+    "c01T1000",
+    "Eshe (Shear Daggers + Echo of the Valley + Goat Gear + Eshe + Sheep)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "119",
+    "d01U0000",
+    "Eternal Knife",
+    "Melee",
+    "Common"
+  ],
+  [
+    "120",
+    "d01V0000",
+    "Bee Stinger",
+    "Melee",
+    "Common"
+  ],
+  [
+    "121",
+    "d01W0000",
+    "Highland Axe",
+    "Melee",
+    "Rare"
+  ],
+  [
+    "122",
+    "d01X0000",
+    "Diamond Pickaxe",
+    "Melee",
+    "Unique"
+  ],
+  [
+    "123",
+    "d11Y0000",
+    "Sugar Rush (With Charm Quiver)",
+    "Range",
+    "Unique"
+  ],
+  [
+    "124",
+    "d11Z0000",
+    "Slayer Crossbow (With Impact Quiver)",
+    "Range",
+    "Common"
+  ],
+  [
+    "125",
+    "d1200000",
+    "Elite Power Bow (With Multi-Shot Quiver)",
+    "Range",
+    "Common"
+  ],
+  [
+    "126",
+    "d1210000",
+    "Phantom Bow (With Nightmare Quiver)",
+    "Range",
+    "Rare"
+  ],
+  [
+    "127",
+    "d2220000",
+    "Hungry Horror",
+    "Armor",
+    "Unique"
+  ],
+  [
+    "128",
+    "d2230000",
+    "Wither Armor",
+    "Armor",
+    "Rare"
+  ],
+  [
+    "129",
+    "d2240000",
+    "Black Wolf Armor",
+    "Armor",
+    "Unique"
+  ],
+  [
+    "130",
+    "d2250000",
+    "Evocation Robe",
+    "Armor",
+    "Common"
+  ],
+  [
+    "131",
+    "d3260000",
+    "Loge",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "132",
+    "d3270000",
+    "Annika",
+    "Skin",
+    "Rare"
+  ],
+  [
+    "133",
+    "d3280000",
+    "Igor",
+    "Skin",
+    "Common"
+  ],
+  [
+    "134",
+    "d3290000",
+    "Tim",
+    "Skin",
+    "Unique"
+  ],
+  [
+    "135",
+    "d42a0000",
+    "Blue Sheep",
+    "Pet",
+    "Rare"
+  ],
+  [
+    "136",
+    "d42b0000",
+    "Cow",
+    "Pet",
+    "Common"
+  ],
+  [
+    "137",
+    "d42c0000",
+    "Cat",
+    "Pet",
+    "Common"
+  ],
+  [
+    "138",
+    "d02d1000",
+    "Llama (Dancer's Sword + Bow of Lost Souls + Souldancer Robe + LLama + LLama)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "139",
+    "d02e1000",
+    "Mayeso (Maulers + Elite Power Bow + Ocelot Armor + Mayeso + Ocelot)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "140",
+    "d02f1000",
+    "Pake (Master's Katana + Soul Hunter Crossbow + Ghost Kindler + Pake + Horse)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "141",
+    "d02g1000",
+    "Annika (Jailor's Scythe + Web Bow + Archer's Armor + Annika + Zombified Baby Pig)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "142",
+    "d02h1000",
+    "The Archeologist (Vine Whip + Baby Crossbows + Climbing Gear + The Archeologist + Bat)",
+    "Hero",
+    "Unique"
+  ],
+  [
+    "143",
+    "d02i1000",
+    "Fuego (Growing Staff + Haunted Bow + Fox Armor + Fuego + Fox)",
+    "Hero",
+    "Unique"
+  ]
+]
